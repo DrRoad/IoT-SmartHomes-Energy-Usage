@@ -1,2 +1,2 @@
 # IoT-SmartHomes-Energy-Usage
- Develop insides for IoT technology start-up on smart energy usage in residential homes monitored by multiple sub-meters.
+ Performed data visualizations using Tableau and R, generated descriptive statistics and predictive models using statistical classifiers and linear regression techniques.  Created and delivered Power Point presentation explaining findings and providing practical recommendations for economic incentives to homeowners.  Created detailed technical report defining business goals, data science process framework, analysis of data quality issues and solutions, comparison of models produced by different algorithms, recommendations for economical energy usage.
